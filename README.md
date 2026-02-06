@@ -72,12 +72,10 @@ AI Engineer | Digital Technology | Industrial Systems
 ---
 
 ## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suryonaufal/suryonaufal/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
 
 <picture>
-  <img src="https://raw.githubusercontent.com/suryonaufal/suryonaufal/main/assets/footer-industrial.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryonaufal/suryonaufal/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryonaufal/suryonaufal/output/snake-light.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/suryonaufal/suryonaufal/output/snake-light.svg">
 </picture>
+
