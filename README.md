@@ -9,7 +9,7 @@
   <img alt="Industrial AI Engineer Banner" src="https://raw.githubusercontent.com/suryonaufal/suryonaufal/main/assets/header-light.gif">
 </picture>
 
-<h1 align="center">Suryo Naufal</h1>
+<h1 align="center">Naufal Suryo</h1>
 <h3 align="center">AI Engineer · Digital Technology · Industrial Systems</h3>
 
 <p align="center">
