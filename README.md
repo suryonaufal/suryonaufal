@@ -210,7 +210,7 @@ Solar PV design & commissioning, Energy auditing, Heat recovery analysis, Sankey
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naufal--suryo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naufal-suryo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://suryonaufal.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://suryonaufal.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-suryonaufal.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryonaufal.official@gmail.com)
 
 </div>
